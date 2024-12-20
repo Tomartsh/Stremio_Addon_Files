@@ -1,2 +1,4 @@
 # Stremio_Addon_Files
-Files stored for the usage of stremio addons
+Files needed for addondata download
+Kan 11 - stremio-kanbox.zip
+
