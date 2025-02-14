@@ -3,6 +3,6 @@ The following files are used for the Kan addon for Stremio <BR>(https://stremio-
 <BR>
 Kan 11 - stremio-kanbox.zip<BR>
 Channel 12 - stremio-reshet.zip<BR>
-Live broadcast - stremio-livetv.zip<BR>
+Live broadcast - stremio-live.zip<BR>
 
 
